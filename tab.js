@@ -8,6 +8,6 @@ function opentab(Nme) {
   for (i = 0; i < x.length; i++) {
     tablinks[i].className = tablinks[i].className.replace(" w3-green", "");
   }
-  document.getElementById(cityName).style.display = "block";
+  document.getElementById(Nme).style.display = "block";
   evt.currentTarget.className += " w3-green";
 }
