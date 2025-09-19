@@ -3,9 +3,11 @@ body {
 }
 
 h1 {
-  color: navy;
-  margin-left: 20px;
+  color: white;
+  text-align: center;
 }
 .p3 {
+  color: white;
+  text-align: center;
   font-family: "Lucida Console", "Courier New", monospace;
 }
