@@ -1,4 +1,4 @@
-function openCity(evt, ce) {
+function opentab(evt, ce) {
   var i, x, tablinks;
   x = document.getElementsByClassName("tabss");
   for (i = 0; i < x.length; i++) {
